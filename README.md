@@ -1,5 +1,4 @@
 # scala-akka-template #
-=======================
 
 Simple SBT template for a Scala Akka 2.1.4 project
 
@@ -21,6 +20,6 @@ Simple SBT template for a Scala Akka 2.1.4 project
 
 #### application.conf
 - Log level is set to DEBUG
-- DEBUG loggin of actor lifecycle changes in enabled  
+- DEBUG logging of actor lifecycle changes in enabled  
 
 
